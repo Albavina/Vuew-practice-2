@@ -59,6 +59,7 @@
         margin: 0 auto;
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
+        background-image: url("https://cdn.pixabay.com/photo/2017/11/08/04/25/rock-2929205_960_720.jpg");
     }
 
     input, button {
@@ -99,7 +100,7 @@
 
     /* Create "big" class */
     .big {
-        height: 200px;
+        height: 400px;
     }
 
     .component{

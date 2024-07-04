@@ -1,5 +1,5 @@
 <template>
-  <div class="component">
+  <div class="component-featured">
 
     <img :src="featured" />
 
@@ -14,5 +14,12 @@ export default {
 </script>
 
 <style>
+
+
+.component-featured > img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
 
 </style>
